@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="fr" dir="ltr">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title></title>
   </head>
   <body>
     <?php
     $isOk = true;
     if ($isOk == false) {
-      echo "c\'est pas bon !!!";
-    }
-    else {
-      echo "c\'est ok !!";
+      echo 'c\'est pas bon !!!';
+    } else {
+      echo 'c\'est ok !!';
     }
      ?>
   </body>
